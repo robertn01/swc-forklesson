@@ -1,9 +1,0 @@
-This is YingyingHan.
-
-Hello!
-
-<<<<<<< HEAD
-1234
-=======
-I am doing some modifications here.
->>>>>>> 6b56300f169a59e66878e22a53c91171b1f2dd5c
